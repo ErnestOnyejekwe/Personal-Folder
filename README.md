@@ -6,13 +6,12 @@ About Me
 -Analyze data to uncover actionable insights.
 -Develop interactive dashboards for data visualization.
 -Drive informed decision-making through data-driven strategies.
-Collaborate with cross-functional teams to optimize business processes.
+-Collaborate with cross-functional teams to optimize business processes.
 
 Let's Connect
 📫 Want to collaborate on a data-driven project or discuss the latest trends in business intelligence? Feel free to reach out! Whether you're a fellow data enthusiast, a potential collaborator, or just curious about BI, I'm always open to connecting and sharing knowledge.
 
 Get in Touch
 📧 Email: ernestonyejekwe@gmail.com
-🔗 LinkedIn: linkedin.com/in/YourLinkedInProfile
 
-Let's unlock the power of data together!# Personal-Folder
+Let's unlock the power of data together!
