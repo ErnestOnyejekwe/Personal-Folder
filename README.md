@@ -3,9 +3,13 @@ About Me
 
 💼 What I Do:
 -As a BI Analyst, I thrive on the challenge of turning raw data into valuable insights that empower organizations to make strategic decisions. From data collection and cleansing to analysis and visualization, I'm dedicated to uncovering the stories hidden within the numbers.
+
 -Analyze data to uncover actionable insights.
+
 -Develop interactive dashboards for data visualization.
+
 -Drive informed decision-making through data-driven strategies.
+
 -Collaborate with cross-functional teams to optimize business processes.
 
 Let's Connect
